@@ -55,7 +55,7 @@ I'm solving **LeetCode problems daily using Python** to improve my **Data Struct
 | Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **3** |
+| **Total** | **2** |
 
 ---
 

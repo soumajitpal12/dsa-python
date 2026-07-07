@@ -10,7 +10,7 @@
 
 Hi 👋 I'm **Soumajit Pal**.
 
-🎓 Final Year BCA Student
+🎓 MCA Student
 
 🐍 Solving **LeetCode Daily using Python**
 
